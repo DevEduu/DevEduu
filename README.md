@@ -1,4 +1,4 @@
-# Apresentação de um Estudante de Flutter 📱
+# Olá Sou o Edu Desenvolvedor Flutter 📱
 
 Olá, eu sou um estudante autodidata de Flutter e me considero um programador júnior! 👋
 
