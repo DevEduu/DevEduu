@@ -1,3 +1,6 @@
+<img src="./assets/deveduu_banner.png" align="center" width="900">
+
+
 # 💫 About Me:
 Olá, eu sou um estudante autodidata de Flutter e me considero um programador júnior!👋
 
