@@ -1,4 +1,4 @@
-<img src="./assets/deveduu_banner.png" align="center" width="900">
+<img src="./assets/deveduu_banner.gif" align="center" width="900">
 
 
 # 💫 About Me:
